@@ -1,0 +1,172 @@
+{
+  "customers": [],
+  "customer_sessions": {},
+  "products": [
+    {
+      "id": "p-nobadvibes",
+      "name": "No Bad Vibes",
+      "type": "trucker cap",
+      "img": "assets/collection/norm/2627D20C.png",
+      "tone": "#e9ff2e",
+      "price": 650,
+      "active": true
+    },
+    {
+      "id": "p-habibi",
+      "name": "Habibi new",
+      "type": "trucker cap",
+      "img": "assets/collection/norm/52CC3DAC.png",
+      "tone": "#2e5bff",
+      "price": 650,
+      "active": true
+    },
+    {
+      "id": "p-sharktank",
+      "name": "Shark Tank",
+      "type": "trucker cap",
+      "img": "assets/collection/norm/EE973942.png",
+      "tone": "#141414",
+      "price": 640,
+      "active": true
+    },
+    {
+      "id": "p-now",
+      "name": "Now 今",
+      "type": "classic cap",
+      "img": "assets/collection/norm/8107A69C.png",
+      "tone": "#1a3a8f",
+      "price": 640,
+      "active": true
+    },
+    {
+      "id": "p-waterway",
+      "name": "Waterway",
+      "type": "trucker cap",
+      "img": "assets/collection/norm/2E9DBBF1.png",
+      "tone": "#efeeec",
+      "price": 620,
+      "active": true
+    },
+    {
+      "id": "p-kikis",
+      "name": "Kiki's",
+      "type": "classic cap",
+      "img": "assets/collection/norm/4F72F96D.png",
+      "tone": "#4a4a4a",
+      "price": 620,
+      "active": true
+    },
+    {
+      "id": "p-elagmad",
+      "name": "El Agmad",
+      "type": "trucker cap",
+      "img": "assets/collection/norm/3E2BF716.png",
+      "tone": "#141414",
+      "price": 650,
+      "active": true
+    },
+    {
+      "id": "p-sandsea",
+      "name": "Sand. Sea. Shut Up.",
+      "type": "beach tote",
+      "img": "assets/collection/tote-sandsea.png",
+      "tone": "#efeeec",
+      "price": 850,
+      "active": true
+    }
+  ],
+  "orders": [
+    {
+      "id": "o-1786541748373",
+      "ts": 1786541748373,
+      "status": "new",
+      "items": [
+        {
+          "product_id": "p-nobadvibes",
+          "name": "No Bad Vibes",
+          "type": "trucker cap",
+          "unit": 650,
+          "qty": 2,
+          "total": 1300
+        }
+      ],
+      "product": "No Bad Vibes",
+      "type": "trucker cap",
+      "unit": 650,
+      "qty": 2,
+      "total": 1300,
+      "name": "T",
+      "dial": "+20",
+      "phone": "1",
+      "city": "c",
+      "address": "a",
+      "notes": ""
+    },
+    {
+      "id": "o-mr0oliei1nc5",
+      "ts": 1782791487587,
+      "status": "new",
+      "product": "Shark Tank",
+      "type": "trucker cap",
+      "unit": 640,
+      "qty": 1,
+      "name": "Karim S.",
+      "dial": "+20",
+      "phone": "122 999 3030",
+      "city": "Alexandria",
+      "address": "Smouha",
+      "notes": "",
+      "total": 640
+    },
+    {
+      "id": "o-mr0oliegf2pd",
+      "ts": 1782653247587,
+      "status": "confirmed",
+      "product": "Sand. Sea. Shut Up.",
+      "type": "beach tote",
+      "unit": 850,
+      "qty": 1,
+      "name": "Layla M.",
+      "dial": "+971",
+      "phone": "50 240 1444",
+      "city": "Dubai",
+      "address": "JLT",
+      "notes": "",
+      "total": 850
+    },
+    {
+      "id": "o-mr0olieexsyh",
+      "ts": 1782480447587,
+      "status": "shipped",
+      "product": "Habibi",
+      "type": "trucker cap",
+      "unit": 650,
+      "qty": 2,
+      "name": "Omar Adel",
+      "dial": "+20",
+      "phone": "101 555 8890",
+      "city": "Giza",
+      "address": "Dokki",
+      "notes": "Gift wrap please",
+      "total": 1300
+    },
+    {
+      "id": "o-mr0oliebupnu",
+      "ts": 1782307647587,
+      "status": "delivered",
+      "product": "No Bad Vibes",
+      "type": "trucker cap",
+      "unit": 650,
+      "qty": 1,
+      "name": "Nour Hassan",
+      "dial": "+20",
+      "phone": "100 222 1144",
+      "city": "Cairo",
+      "address": "Maadi, St. 9",
+      "notes": "",
+      "total": 650
+    }
+  ],
+  "feedback": [],
+  "reviews": []
+}
